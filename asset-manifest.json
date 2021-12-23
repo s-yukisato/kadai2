@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kadai2/static/css/main.31d6cfe0.css",
-    "main.js": "/kadai2/static/js/main.cc8615a4.js",
+    "main.js": "/kadai2/static/js/main.cfb0d9f4.js",
     "static/js/787.a385e364.chunk.js": "/kadai2/static/js/787.a385e364.chunk.js",
     "static/media/buta_tan.jpg": "/kadai2/static/media/buta_tan.89778eec42f6f25ab432.jpg",
     "static/media/tori_momo.jpg": "/kadai2/static/media/tori_momo.c222692b878729ff7d23.jpg",
@@ -13,11 +13,11 @@
     "static/media/ushi.png": "/kadai2/static/media/ushi.f0e47d1532670d5ab07f.png",
     "static/media/mise1.jpg": "/kadai2/static/media/mise1.2b4d30c60344e69e8c80.jpg",
     "index.html": "/kadai2/index.html",
-    "main.cc8615a4.js.map": "/kadai2/static/js/main.cc8615a4.js.map",
+    "main.cfb0d9f4.js.map": "/kadai2/static/js/main.cfb0d9f4.js.map",
     "787.a385e364.chunk.js.map": "/kadai2/static/js/787.a385e364.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.cc8615a4.js"
+    "static/js/main.cfb0d9f4.js"
   ]
 }
