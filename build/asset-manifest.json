@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.7feb81da.js",
-    "static/js/787.a385e364.chunk.js": "/static/js/787.a385e364.chunk.js",
-    "static/media/buta_tan.jpg": "/static/media/buta_tan.89778eec42f6f25ab432.jpg",
-    "static/media/tori_momo.jpg": "/static/media/tori_momo.c222692b878729ff7d23.jpg",
-    "static/media/karubi.jpg": "/static/media/karubi.ca74ff29a744c510eb27.jpg",
-    "static/media/koudai_karubi.jpg": "/static/media/koudai_karubi.be1d72c4bc1bc2f8ad40.jpg",
-    "static/media/harami.jpg": "/static/media/harami.9a180343150d8d638f0b.jpg",
-    "static/media/tori_yagen.jpg": "/static/media/tori_yagen.dfe5d09b9805c9059de1.jpg",
-    "static/media/buta_horumon.jpg": "/static/media/buta_horumon.882acc55425090e13137.jpg",
-    "static/media/ushi.png": "/static/media/ushi.f0e47d1532670d5ab07f.png",
-    "static/media/mise1.jpg": "/static/media/mise1.2b4d30c60344e69e8c80.jpg",
-    "index.html": "/index.html",
-    "main.7feb81da.js.map": "/static/js/main.7feb81da.js.map",
-    "787.a385e364.chunk.js.map": "/static/js/787.a385e364.chunk.js.map"
+    "main.css": "/kadai2/static/css/main.31d6cfe0.css",
+    "main.js": "/kadai2/static/js/main.cc8615a4.js",
+    "static/js/787.a385e364.chunk.js": "/kadai2/static/js/787.a385e364.chunk.js",
+    "static/media/buta_tan.jpg": "/kadai2/static/media/buta_tan.89778eec42f6f25ab432.jpg",
+    "static/media/tori_momo.jpg": "/kadai2/static/media/tori_momo.c222692b878729ff7d23.jpg",
+    "static/media/karubi.jpg": "/kadai2/static/media/karubi.ca74ff29a744c510eb27.jpg",
+    "static/media/koudai_karubi.jpg": "/kadai2/static/media/koudai_karubi.be1d72c4bc1bc2f8ad40.jpg",
+    "static/media/harami.jpg": "/kadai2/static/media/harami.9a180343150d8d638f0b.jpg",
+    "static/media/tori_yagen.jpg": "/kadai2/static/media/tori_yagen.dfe5d09b9805c9059de1.jpg",
+    "static/media/buta_horumon.jpg": "/kadai2/static/media/buta_horumon.882acc55425090e13137.jpg",
+    "static/media/ushi.png": "/kadai2/static/media/ushi.f0e47d1532670d5ab07f.png",
+    "static/media/mise1.jpg": "/kadai2/static/media/mise1.2b4d30c60344e69e8c80.jpg",
+    "index.html": "/kadai2/index.html",
+    "main.cc8615a4.js.map": "/kadai2/static/js/main.cc8615a4.js.map",
+    "787.a385e364.chunk.js.map": "/kadai2/static/js/787.a385e364.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.7feb81da.js"
+    "static/js/main.cc8615a4.js"
   ]
 }

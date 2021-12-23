@@ -16,7 +16,7 @@ export default function App() {
   };
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route exact path="/" element={<AppBar open={open} handleDrawerOpen={handleDrawerOpen} handleDrawerClose={handleDrawerClose} content={<Home />} />} />
           <Route exact path="/menu" element={<AppBar open={open} handleDrawerOpen={handleDrawerOpen} handleDrawerClose={handleDrawerClose} content={<Menu />} />} />
